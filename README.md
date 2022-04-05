@@ -3,9 +3,8 @@
 ![wapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-[![Chermont Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=chermontbraga&count_private=true&theme=tokyonight)](https://github.com/chermontbraga/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chermontbraga&layout=compact)](https://github.com/chermontbraga/github-readme-stats)
-
+[![Chermont Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=chermontbraga&count_private=true&theme=tokyonight)](https://github.com/chermontbraga/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chermontbraga&layout=compact)](https://github.com/chermontbraga/github-readme-stats)
+ 
 ![lcommit](https://badgen.net/gitlab/last-commit/gitlab-org/gitlab-development-kit)
 
 ### ***I'm improving this:***
