@@ -8,4 +8,3 @@
 ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
 ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
 ![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
